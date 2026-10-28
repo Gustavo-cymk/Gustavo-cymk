@@ -2,11 +2,14 @@
 
 ```console
 ╭─[gustavo@arch]─[~]
-╰─$ cat ~/.config/developer.conf
+╰─$ fastfetch
 
-user         = Gustavo Da Rocha Alves
-location     = Sorocaba, SP
-system       = Arch Linux
-focus        = C, Web Development
-status       = learning by building
+           /\           gustavo@arch
+          /  \          -------------------------
+         /    \         OS : Arch Linux
+        /      \        Location : Sorocaba, SP
+       /   ,,   \       Languages : C, JavaScript
+      /   |  |   \      Interests : Linux, Open Source
+     /_-''    ''-_\     Status : Learning
+
 ```
