@@ -1,6 +1,6 @@
 
 
-```console
+```bash
 ╭─[gustavo@arch]─[~]
 ╰─$ fastfetch
 
